@@ -1,0 +1,13 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+db:console
+server
+*.bak
+*~
+*.swp
+.idea/
+*.iml
+*.lock
+.DS_Store
