@@ -9,5 +9,4 @@ server
 *.swp
 .idea/
 *.iml
-*.lock
 .DS_Store
